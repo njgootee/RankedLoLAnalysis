@@ -2,7 +2,7 @@
 An analysis and classification algorithm for high rank League of Legends games
 
 ## Run
-Unzip Lolanalysis.zip, and open notebook in desired environment (Python 3.8.1), with dataset saved in same directory.  Read cells, analysis, graphics or alternatively run cells to reproduce.
+Unzip LoLanalysis.zip, and open notebook in desired environment (Python 3.8.1), with dataset saved in same directory.  Read cells, analysis, graphics or alternatively run cells to reproduce.
 
 ## Description
 
