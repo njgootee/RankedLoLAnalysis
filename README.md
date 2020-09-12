@@ -10,7 +10,7 @@ Unzip LoLanalysis.zip, and open notebook in desired environment (Python 3.8.1), 
 
 The dataset (available at https://www.kaggle.com/bobbyscience/league-of-legends-diamond-ranked-games-10-min) "contains the first 10min. stats of approx. 10k ranked games (SOLO QUEUE) from a high ELO (DIAMOND I to MASTER)." These players are within the top 0.25% (https://www.leagueofgraphs.com/rankings/rank-distribution) of ranked players and can be considered experts of the game. 
 
-Analysis focuses on the correlation of features with the target variable 'blueWins' which signifies which team won the game. Furthermore, there is analysis of inter-correlation between other features. Classification algorithms were trained, tuned, and compared for the task of classifying 'blueWins'. Additional commentary Offers the significance of findings and possible extensions.
+Analysis focuses on the correlation of features with the target variable 'blueWins' which signifies which team won the game. Furthermore, there is analysis of inter-correlation between other features. Classification algorithms were trained, tuned, and compared for the task of classifying 'blueWins'. Additional commentary offers the significance of findings and possible extensions.
 
 ## Extensions
 With more data, extensions of this analysis and algorithms could be developed. One possible extension is a live team win algorithm. This could inform players on how their performance and actions (both positive and negative) influence the outcome of the game. This could also help inform players on surrender votes by knowing the likely outcome of the game and if their efforts would be better spent in a fresh game or if they should continue to push for a win with decent odds. 
